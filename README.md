@@ -8,7 +8,7 @@ Here are some of the technologies and tools I'm proficient in:
 
 ### 🌱 Learning & Growing
 
-I thrive on challenges and am always eager to learn new concepts and technologies. Currently I'm working on a Generative AI SaaS project, and exploring training transformer models on datasets encrypted using homomorphic encryption, enabling the secure and private fine-tuning on sensitive data. I would be happy to engage in further discussion about my approach to leveraging this technology or any other projects you may come across on my GitHub!
+I thrive on challenges and am always eager to learn new concepts and technologies. Currently I'm working on a Generative AI SaaS project, and exploring training transformer models on datasets encrypted using homomorphic encryption, enabling secure and private fine-tuning using sensitive data. I would be happy to engage in further discussion about my approach to leveraging this technology or any other projects you may come across on my GitHub!
 
 ### 🤝 Let's Connect!
 
